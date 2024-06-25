@@ -13,7 +13,3 @@ pnpm dev
 # or
 npm run dev
 ```
-
-```
-
-
