@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.skimr-body {
+    min-width: 30rem;
+    max-width: 40rem;
+    min-height: 30rem;
+    max-height: 40rem;
+    overflow: auto;
+    /* padding: 1rem; */
+    border: 1px solid #e2e8f0;
+    border-radius: 0.25rem;
+
+
+}
+
+* {
+    box-sizing: border-box;
+}
